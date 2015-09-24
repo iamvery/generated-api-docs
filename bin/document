@@ -1,0 +1,1 @@
+bin/rspec --require spec/api_blueprint_formatter.rb --format ApiBlueprintFormatter --order default --tag api
